@@ -52,11 +52,16 @@
 </div>
 <p align="center">
  
-
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/gurrudevs?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/gurrudevs)
-‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/20042850/ashutosh-pawar)
-‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/gurrudev?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/gurrudev)  
- 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
   <br/>
   <br/>
   <h6 align="center">Thanks for stopping by </h6><br/>
