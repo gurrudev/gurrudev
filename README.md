@@ -62,4 +62,4 @@
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [rajput2107](https://github.com/rajput2107)
+⭐️ From [rajput2107](https://github.com/gurrudev)
