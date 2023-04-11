@@ -54,7 +54,7 @@
  
 <div align="center">
 	
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a align="center" href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/TheDudeThatCode">
