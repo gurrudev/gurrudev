@@ -12,7 +12,6 @@
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
 	- MonogoDB
   - Express
   - NodeJS  
