@@ -44,7 +44,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Ashutosh">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=radical" alt="Ashutosh">
 </p>  
 
 <div align="center">
