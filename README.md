@@ -6,6 +6,7 @@
 	- Python ❤️
 	- C++
 	- Java
+	- Java Script
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
@@ -43,7 +44,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="">
 </p>  
 
 <div align="center">
