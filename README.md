@@ -62,4 +62,4 @@
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [gurrudev](https://github.com/gurrudev)
+⭐️ From [@gurrudev](https://github.com/gurrudev)
