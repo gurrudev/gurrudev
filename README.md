@@ -56,18 +56,16 @@
  
 <div align="center">
 	
-  <a align="center" href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  
+<p align="center">
+ <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/deut-erium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/deuterium#1689"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/0xdeuterium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
+  <a href="https://deut-erium.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+</p>
 </div>
 	
 	
