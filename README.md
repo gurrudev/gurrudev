@@ -51,15 +51,14 @@
   <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
+ 
+[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/44yKPxm)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
+‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
+‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
+‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/kawaaii)
+‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
+‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
  
   <br/>
   <br/>
