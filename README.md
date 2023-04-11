@@ -59,7 +59,7 @@
  
   <br/>
   <br/>
-  <h5 align="center">Thanks for stopping by </h5<br/>
+  <h6 align="center">Thanks for stopping by </h6<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgurrudev%2F" /></p>
 <br/>
