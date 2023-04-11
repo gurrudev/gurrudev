@@ -1,7 +1,10 @@
 # Hello World!
 
  <br/>
-## Ask me about :computer: 
+## Ask me about 
+
+computer: 
+
 - **Competitive Programming**
 	- Python 
 	- C++
