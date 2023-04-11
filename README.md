@@ -3,7 +3,7 @@
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- Python ❤
+	- Python 
 	- C++
 	- Java
 	- Java Script
