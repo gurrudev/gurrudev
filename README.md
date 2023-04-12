@@ -60,7 +60,7 @@
   <a href="https://www.instagram.com/gurrudev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/gurrudev" target="_blank">
+  <a href="https://www.facebook.com/gurrudevs" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
 
