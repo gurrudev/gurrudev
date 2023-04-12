@@ -1,9 +1,7 @@
 # Hello World!
 
- <br/>
-## Ask me about 
-
-computer: 
+ 
+## Ask me about 💻: 
 
 - **Competitive Programming**
 	- Python 
