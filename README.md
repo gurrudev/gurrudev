@@ -1,7 +1,7 @@
 # Hello World!
 
  
-## Ask me about 💻: 
+## Ask me about 💻 
 
 - **Competitive Programming**
 	- Python 
