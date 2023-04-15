@@ -3,7 +3,7 @@
  
 ## Ask me about 💻 
 
-- **Competitive Programming**
+- **Competitive Programming** 
 	- Python 
 	- C++
 	- Java
