@@ -46,7 +46,7 @@
 
 <p style="display: flex; ">
 <img style="height:200px; width:400px" src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=gotham">
-<img style="height:200px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham&langs_count=6"/>
+<img style="height:200px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham&langs_count=8"/>
 </p>  
 
 
