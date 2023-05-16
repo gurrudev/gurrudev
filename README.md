@@ -46,7 +46,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=radical">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=dark)](https://git.io/streak-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=dark">
 </p>  
 
 
