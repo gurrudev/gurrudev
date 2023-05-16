@@ -44,7 +44,7 @@
 
 
 ![ASHUTOSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&locale=en&theme=dark&count_private=true&border=00000000&background=161B22) | ![ASHUTOSH's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
-![ASHUTOSH's GitHub graph](https://github-readme-activity-graph.cyclic.app/graph/?username=gurrudev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) 
+
 | :---: | :---: |
 
 
