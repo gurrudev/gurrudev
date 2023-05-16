@@ -43,9 +43,11 @@
   <br/>
 
 
-![ASHUTOSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&locale=en&theme=react&hide_border=true&background=161B22) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=github-dark&hide_border=true)](https://git.io/streak-stats) |
-| :---: | :---: |
+![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&count_private=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
+| :---: | :---: | 
 
+![gurrudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&theme=react&show_icons=true&hide_border=true&layout=compact&)|
+| :---: |
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
