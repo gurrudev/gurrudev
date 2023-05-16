@@ -44,10 +44,8 @@
 
 
 
-<div style="display: flex; ">
-<img style="height:300px; width:400px" src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=gotham">
-<img style="height:200px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham&langs_count=8"/>
-</div>  
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/> 
 
 
 <div align="center">
