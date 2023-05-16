@@ -44,9 +44,9 @@
 
 
 
-<p align="center">
-<img style="height:200px;width:600px;" src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=gotham">
-<img style="height:200px;width:600px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham"/>
+<p style="display: flex; ">
+<img src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham"/>
 </p>  
 
 
