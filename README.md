@@ -44,8 +44,8 @@
 
 
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/> 
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=tokyonight" alt="mystreak"/> 
 
 
 <div align="center">
