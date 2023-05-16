@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/80522156?s=400&u=705207e3586156ec9009ff39746053d5c4007a38&v=4" alt="Your Name" style="border-radius:7px;" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/80522156?s=400&u=705207e3586156ec9009ff39746053d5c4007a38&v=4" alt="Your Name" style="radius:7px;" width="200" height="200">
 </p>
 
 <h1 align="center">Hello, I'm Your Name! 👋</h1>
