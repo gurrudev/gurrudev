@@ -44,7 +44,7 @@
 
 
 <div style="display: flex;">
-	![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight)
+	<img src="https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight"/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=tokyonight" alt="mystreak"/> 
 </div>
 
