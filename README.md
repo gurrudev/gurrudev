@@ -45,8 +45,8 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=dark" width="100px">	
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=dark" width="100px">
+<img src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=dark" width="500px" height="300px">	
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=dark" width="500px" height="300px">
 </p>  
 
 
