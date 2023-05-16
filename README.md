@@ -43,10 +43,8 @@
   <br/>
 
 
-<div style="display: flex;">
-	<img src="https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight" width="200px" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=tokyonight" alt="mystreak" width="200px" /> 
-</div >
+![dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&show_icons=true&locale=en&theme=react&count_private=true) | ![dhanush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhanush-Saji&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+| :---: | :---: |
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
