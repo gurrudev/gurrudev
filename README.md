@@ -46,7 +46,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gurrudev&&show_icons=true&theme=dark">
-<img style="height:200px;width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham&langs_count=8"/>
+<img style="height:200px;width:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&layout=compact&theme=gotham&langs_count=8"/>
 </p>  
 
 
