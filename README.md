@@ -43,10 +43,10 @@
   <br/>
 
 
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=tokyonight" alt="mystreak"/> 
-
+<div style="display: flex;">
+	![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&theme=tokyonight)
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=tokyonight" alt="mystreak"/> 
+</div>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
