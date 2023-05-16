@@ -43,7 +43,7 @@
   <br/>
 
 
-![ASHUTOSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&locale=en&theme=radical&hide_border=true&background=161B22) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=github-dark&hide_border=true)](https://git.io/streak-stats) |
+![ASHUTOSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurrudev&show_icons=true&locale=en&theme=react&hide_border=true&background=161B22) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=github-dark&hide_border=true)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
