@@ -43,7 +43,7 @@
   <br/>
 
 
-![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
+![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&count_private=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
 | :---: | :---: | 
 
 ![gurrudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=8)|
