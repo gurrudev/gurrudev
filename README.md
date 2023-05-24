@@ -46,8 +46,9 @@
 ![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&count_private=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
 | :---: | :---: | 
 
-![gurrudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurrudev&theme=react&show_icons=true&hide_border=true&layout=compact&langs_count=8)|
-| :---: |
+![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react)| ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react) |
+| :---: | :---: |
+
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
