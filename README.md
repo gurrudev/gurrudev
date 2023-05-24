@@ -37,8 +37,8 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+<!-- - **Data Science** -->
+<!-- - **AI** -->
 <br/>
   <br/>
 
