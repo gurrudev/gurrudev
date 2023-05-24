@@ -9,12 +9,6 @@
 	- Java
 	- Java Script
 
-- Programming Languages: JavaScript, Python, Java
-- Front-end Development: HTML, CSS, React.js
-- Back-end Development: Node.js, Express.js, Django
-- Database: MySQL, MongoDB
-- Version Control: Git, GitLab
-- Other: RESTful APIs, Agile Development, Test-Driven Development (TDD)
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
