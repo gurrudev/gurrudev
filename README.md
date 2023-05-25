@@ -39,7 +39,7 @@
 
 ## 🌱 I’m currently learning ...
  - **ReactJS** 
-<!-- - **AI** -->
+ - **Blockchain** -->
 <br/>
   <br/>
 
