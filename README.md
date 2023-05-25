@@ -38,7 +38,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
- - **ReactJS ** 
+ - **ReactJS** 
 <!-- - **AI** -->
 <br/>
   <br/>
