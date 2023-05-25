@@ -38,7 +38,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-<!-- - **Data Science** -->
+ - **ReactJS ** 
 <!-- - **AI** -->
 <br/>
   <br/>
