@@ -43,7 +43,7 @@
   <br/>
 
 ## Stats  📊
-![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&count_private=true&PAT_1) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
+![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurrudev&theme=react&hide_border=true) |
 | :---: | :---: | 
 
 ![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react)| ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react) |
