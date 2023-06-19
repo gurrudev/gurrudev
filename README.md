@@ -39,7 +39,8 @@
 
 ## 🌱 I’m currently learning ...
  - **ReactJS** 
- - **Blockchain** 
+ - **Blockchain**
+ - **TypeScript**
 <br/>
   <br/>
 
