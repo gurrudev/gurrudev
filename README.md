@@ -45,10 +45,10 @@
   <br/>
 
 ## Stats  📊
-![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true&bg_color=161B22) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=e1d038&stroke=00000000&currStreakNum=d38234&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true) | ![gurrudev's Streak](https://github-readme-streak-stats.herokuapp.com?user=gurrudev&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&fire=e1d038&stroke=00000000&currStreakNum=d38234&currStreakLabel=A6A6A6&border=00000000) |
 | :---: | :---: | 
 
-![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react&background=161B22)| ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react&bg_color=161B22) |
+![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react&hide_title=true) | ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react&hide_title=true) |
 | :---: | :---: |
 
 
