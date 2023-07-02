@@ -50,7 +50,6 @@
 ![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react&hide_title=true) | ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react&hide_title=true) |
 | :---: | :---: |
 
-
 <div align="center">
 <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
 <div  align="center">
