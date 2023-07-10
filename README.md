@@ -1,5 +1,4 @@
-## Hello World! 
-# I'm ASHUTOSH PAWAR
+# ASHUTOSH PAWAR
 
   
 ## Ask me about 💻 
