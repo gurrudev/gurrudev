@@ -40,7 +40,6 @@
  - **ReactJS** 
  - **Blockchain**
  - **TypeScript**
- - **Flutter**
 <br/>
   <br/>
 
