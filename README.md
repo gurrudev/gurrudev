@@ -54,8 +54,8 @@
 <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
 <div  align="center">
 		
-  <a href="mailto:pawarash000@gmail.com" mailto="pawarash000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=flat&logo=GMail&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/gurrudev"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="mailto:pawarash000@gmail.com" mailto="pawarash000@gmail.com"><img src="https://img.shields.io/badge/E‑Mail-D14836.svg?style=flat&logo=GMail&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/gurrudev"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=ffffff"/></a>
   <a href="https://www.instagram.com/gurrudev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 </div>
 </div>
