@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> 
 <img src="https://shields.io/badge/React-27374D?logo=react&style=flat" >
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-E8AA42?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Python-E8AA42?style=flat&logo=python"> 
 
 <br/><br/>
 
