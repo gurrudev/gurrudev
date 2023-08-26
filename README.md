@@ -34,7 +34,8 @@
 <img src="https://shields.io/badge/React-27374D?logo=react&style=flat" >
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-E8AA42?style=flat&logo=python&logoColor=fff"> 
-
+<img src="https://shields.io/badge/Tailwind-27374D?logo=tailwindcss&style=flat" >
+<img src="https://img.shields.io/badge/-Chakra_UI-12AAC8?style=flat&logo=chakraui&logoColor=fff"> <img src="https://shields.io/badge/Material_UI-27374D?logo=mui&style=flat" >
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
