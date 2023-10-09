@@ -66,6 +66,6 @@
   <br/>
   <h6 align="center">Thanks for stopping by </h6>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=Views&color=0e75b6&style=flat" /></p>
+<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=Visits&color=0e72b6&style=flat" /></p>
 <br/>
 <p>
