@@ -20,22 +20,23 @@
   	- MySQL 
 
 <br/><br/>
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-ff7f00?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-27374D?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> 
-<img src="https://shields.io/badge/React-27374D?logo=react&style=flat" >
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-E8AA42?style=flat&logo=python&logoColor=fff"> 
-<img src="https://shields.io/badge/Tailwind_CSS-27374D?logo=tailwindcss&style=flat" >
-<img src="https://img.shields.io/badge/-Chakra_UI-12AAC8?style=flat&logo=chakraui&logoColor=fff"> <img src="https://shields.io/badge/Material_UI-27374D?logo=mui&style=flat" >
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-ff7f00?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-27374D?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img src="https://shields.io/badge/React-27374D?logo=react&style=for-the-badge" >
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Python-E8AA42?style=for-the-badge&logo=python&logoColor=fff"> 
+<img src="https://shields.io/badge/Tailwind_CSS-27374D?logo=tailwindcss&style=for-the-badge" >
+<img src="https://img.shields.io/badge/-Chakra_UI-12AAC8?style=for-the-badge&logo=chakraui&logoColor=fff"> 
+<img src="https://shields.io/badge/Material_UI-27374D?logo=mui&style=for-the-badge" >
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
@@ -55,10 +56,9 @@
 <div align="center">
 <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
 <div  align="center">
-		
-  <a href="mailto:pawarash000@gmail.com" mailto="pawarash000@gmail.com"><img src="https://img.shields.io/badge/E‑Mail-D14836.svg?style=flat&logo=GMail&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/gurrudev"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="https://www.instagram.com/gurrudev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
+  <a href="mailto:pawarash000@gmail.com" mailto="pawarash000@gmail.com"><img src="https://img.shields.io/badge/E‑Mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/gurrudev"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.instagram.com/gurrudev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 </div>
 </div>
 
@@ -66,6 +66,6 @@
   <br/>
   <h6 align="center">Thanks for stopping by </h6>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=Visits&color=0e72b6&style=flat" /></p>
+<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=Visits&color=3C873A&style=for-the-badge" /></p>
 <br/>
 <p>
