@@ -31,7 +31,9 @@
 <img src="http://img.shields.io/badge/-Github-27374D?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postman-ff7f00?style=for-the-badge&logo=postman&logoColor=white"> 
 <img src="https://shields.io/badge/React-27374D?logo=react&style=for-the-badge" >
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-E8AA42?style=for-the-badge&logo=python&logoColor=fff"> 
 <img src="https://shields.io/badge/Tailwind_CSS-27374D?logo=tailwindcss&style=for-the-badge" >
