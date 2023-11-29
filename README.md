@@ -15,6 +15,7 @@
 	- HTML, CSS and Javascript 
 	- Bootstrap
 	- MonogoDB
+ 	- React 
   	- Express
   	- NodeJS 
   	- MySQL 
