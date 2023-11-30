@@ -7,12 +7,12 @@
 	- Python 
 	- C++
 	- Java
-	- Java Script
+	- JavaScript
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
-	- HTML, CSS and Javascript
+	- HTML, CSS and JavaScript
 	- MonogoDB
  	- React 
   	- Express
