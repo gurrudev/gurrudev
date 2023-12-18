@@ -47,6 +47,7 @@
  - **ReactJS** 
  - **Blockchain**
  - **TypeScript**
+ - **GraphQL**
 <br/>
   <br/>
 <!--
