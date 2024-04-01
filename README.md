@@ -47,9 +47,7 @@
 
 
 ## 🌱 I’m currently learning ...
- - **ReactJS** 
  - **Blockchain**
- - **TypeScript**
  - **GraphQL**
 <br/>
   <br/>
