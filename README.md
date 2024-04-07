@@ -56,10 +56,6 @@
 <img src="https://shields.io/badge/Material_UI-27374D?logo=mui&style=for-the-badge" >
 <br/><br/>
 
-
-
-<br/>
-  <br/>
 <!--
   [![An image of @gurrudev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurrudev)](https://holopin.io/@gurrudev)
   <br/>
