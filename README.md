@@ -1,23 +1,34 @@
-# Hello World!
+<!-- <h2 align="center">|| 卐 ||</h2> -->
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi 👋, I'm ASHUTOSH PAWAR </h1>
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer;Teck+Enthusiast" alt="Typing SVG" /></a></h3>
 
-## 💻 Ask me about 
+<br/>
 
-- **Competitive Programming** 
-	- Python 
-	- C++
-	- Java
-	- JavaScript
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **GraphQL**
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+- 🎓 Postgraduate
 
+- 💬 Ask me about **HTML, CSS, Java, React, NodeJs, Figma**
 
-- **Web Development**
-	- HTML, CSS and JavaScript
-	- MonogoDB
- 	- React 
-  	- Express
-  	- NodeJS 
-  	- MySQL 
+- 📚 Lerner
+  
+- 🥊 Martial Arts
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <br/><br/>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -46,9 +57,7 @@
 <br/><br/>
 
 
-## 🌱 I’m currently learning ...
- - **Blockchain**
- - **GraphQL**
+
 <br/>
   <br/>
 <!--
@@ -56,7 +65,7 @@
   <br/>
   -->
 
-## 📊 Stats  
+##   
 ![gurrudev's Stats](https://github-readme-stats.vercel.app/api?username=gurrudev&theme=react&show_icons=true&hide_border=true) | ![gurrudev's Streak](https://github-readme-streak-stats-tan-alpha.vercel.app?user=gurrudev&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=d38234&fire=e1d038&stroke=00000000&currStreakNum=ff5700&currStreakLabel=A6A6A6&border=00000000) |
 | :---: | :---: | 
 
