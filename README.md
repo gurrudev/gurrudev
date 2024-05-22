@@ -19,7 +19,7 @@
 
 - 📝 Sometimes I write
   
-- 🥊 Martial Arts
+- 🥊 Örthodóx 
 
 </td>
 <td width="50%" align="center">
