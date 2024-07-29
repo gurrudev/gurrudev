@@ -13,11 +13,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning *GraphQL*
 
 - 🎓 Postgraduate
 
-- 💬 Ask me about **HTML, CSS, Java, React, NodeJs, Figma**
+- 💬 Ask me about *HTML, CSS, Java, React, NodeJs, Figma*
 
 - 📝 Sometimes I write
   
