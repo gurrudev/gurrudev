@@ -1,7 +1,6 @@
 <!-- <h2 align="center">|| 卐 ||</h2> -->
 
-
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p> 
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/user-attachments/assets/379ca6c5-8623-4c87-835d-4985651520f6" width = 50px></picture></p> 
 
 <h4 align="center">Hello, I'm </h4> 
 <h1><img align="center" src = https://github.com/user-attachments/assets/0dca87ba-5921-49e9-bfd5-2a33a459bbf5 /></h1>
