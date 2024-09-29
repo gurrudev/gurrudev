@@ -1,14 +1,14 @@
 <!-- <h2 align="center">|| 卐 ||</h2> -->
-
+##
 <!--<p align="center"><picture align="center"><img align="center" src = "https://github.com/user-attachments/assets/379ca6c5-8623-4c87-835d-4985651520f6" width = 50px></picture></p> -->
 ![Untitled](https://github.com/user-attachments/assets/233216c7-f65a-404b-8716-2bad2bb708e9)
 
-#
+##
 
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </h3>
 
-#
+##
 
 <br/>
 
@@ -35,6 +35,8 @@
   </td>
 </tr>
 </table>
+
+##
 
 <br/><br/>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -73,7 +75,7 @@
 
 ![gurrudev's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurrudev&theme=react&hide_title=true) | ![gurrudev's Top Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurrudev&theme=react&hide_title=true) |
 | :---: | :---: |
-
+##
 <div align="center">
 <h3 align="center">Connect with me<img align="center" height="33px" /></h3> 
 <div  align="center">
