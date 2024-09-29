@@ -94,7 +94,7 @@
 
   <h6 align="center">Thanks for stopping by </h6>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=Visits&color=3C873A&style=for-the-badge" /></p>
+<p align="center"><img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=gurrudev&label=hits&color=1A5319&style=for-the-badge"/></p>
 <br/>
 <p>
 
