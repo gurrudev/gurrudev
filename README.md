@@ -16,7 +16,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning *GraphQL*
+- 🌱 I’m currently learning *GSAP*
 
 - 🎓 Postgraduate
 
@@ -62,6 +62,8 @@
 <img src="https://shields.io/badge/Tailwind_CSS-27374D?logo=tailwindcss&style=for-the-badge" >
 <img src="https://img.shields.io/badge/-Chakra_UI-12AAC8?style=for-the-badge&logo=chakraui&logoColor=fff"> 
 <img src="https://shields.io/badge/Material_UI-27374D?logo=mui&style=for-the-badge" >
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql" >
+
 <br/><br/>
 
 <!--
