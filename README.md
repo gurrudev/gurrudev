@@ -84,7 +84,7 @@
   <a href="mailto:pawarash000@gmail.com" mailto="pawarash000@gmail.com"><img src="https://img.shields.io/badge/E‑Mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/gurrudev"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
   <a href="https://dev.to/gurrudev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/gurrudev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
+<!--   <a href="https://www.instagram.com/gurrudev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a> -->
   <a href="https://leetcode.com/u/gurrudev/"><img src="https://img.shields.io/badge/LeetCode-27374D?logo=leetcode&logoColor=fff&style=for-the-badge"/></a>
   <a href="https://stackoverflow.com/users/20042850/ashutosh-pawar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge"/></a>
   <!-- <a href="https://buymeacoffee.com/pawarash00a"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge"/></a> -->
