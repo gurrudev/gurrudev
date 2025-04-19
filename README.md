@@ -16,7 +16,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning *GSAP*
+- 🌱 I’m currently learning *Something*
 
 - 🎓 Postgraduate
 
